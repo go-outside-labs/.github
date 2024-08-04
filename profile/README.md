@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<b>👾   𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚘𝚞𝚛 <a href="https://github.com/go-outside-labs/neo-cypherpunk-toolkit/tree/main">𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔</a> 𝚙𝚕𝚊𝚢𝚐𝚛𝚘𝚞𝚗𝚍, 𝚊𝚗𝚘𝚗 👾</b>
+<b>👾   𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚘𝚞𝚛 <a href="https://github.com/go-outside-labs/neo-cypherpunk-toolkit/tree/main">𝚗𝚎𝚘-𝚌𝚢𝚙𝚑𝚎𝚛𝚙𝚞𝚗𝚔</a> 𝚙𝚕𝚊𝚢𝚐𝚛𝚘𝚞𝚗𝚍, 𝚊𝚗𝚘𝚗 👾</b>
 </h1>
 
 <h3 align="center">
